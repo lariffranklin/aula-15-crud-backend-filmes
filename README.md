@@ -1,5 +1,9 @@
 # Aula 15 - CRUD - BACKEND - FILMES
 
+## Integrantes
+- Larissa Faustino - 2018016327
+- Sabrina Barroso - 2022011603
+
 Nessa aula criamos um sistema mínimo de backend com CRUD e uma arquitetura services/controllers
 
 Utilizamos as seguinte tecnologias
